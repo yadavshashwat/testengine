@@ -1,0 +1,85 @@
+
+---------- Overall Product --------------
+1) Test Settings Profile Creation
+2) On question updation - handle completed test should remarking be done for all of them - Cron Jobs Setup
+3) My Sections tab - Completed date automatic based on schedule date- User only able to sections assigned to them - Changes status to complete - User verifies before test - 
+
+
+
+----------- Reminders ----------------
+- Active/Completed Tests Seperate DB
+- Preview Test to be deleted at the end
+- Place Checks before making a test live 
+- On Question updation sectional questions to be updated 
+- Deletion checks to be placed in 
+    - Users
+    - Passages 
+    - Questions 
+    - TestCategory
+    - QuestionCategory
+    - TestFolder
+    - QuestionFolder
+
+Tests Creation/Updation
+    - Live test can't be edited
+    - Create untimed tests as well - Done
+    - Create check before making a test live - give warning - but allow if user wants to 
+    - Course filter in test
+    - default positive_marks
+    - default negative_marks
+    - Test Names be unique
+
+Test Taking    
+    - Setting up question flagging post test completion - add user comments to the same
+
+Question Management
+    - Sectional Question Update if question updated
+    - Question update if sectional question updated - 
+    - Folder Dropdown in section question creation
+    - sectional questions to allow less options more options to be handled
+    - Sectional deleted question should not be deleted in the folder
+    - Add check - No option should be blank in MCQ - FrontEnd
+    - remove to_evaluate, is_random
+    - Course Filter in questions
+
+- Test verification 
+
+- Add existing sections in test section tab
+- Add existing sections
+
+- crud_user, crud_topic, crud_passage, crud_questionfolder, crud_testfolder - api standardization -- ---- DOne
+- transObj.count correction everywhere if list val - Empty list to -> Model.objects.none() -----------Done
+----------- Reminders ----------------
+
+- redirection erro if test name change in tests + date change error in tests
+-dont allow allfolders named question bank creation
+- debugger email from front end in case error
+- add check to see if question is in test when making live or deleting or modifying throw warning
+
+db optimization
+https://www.knowlarity.com/blog/dos-donts-improve-performance-django-websites/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

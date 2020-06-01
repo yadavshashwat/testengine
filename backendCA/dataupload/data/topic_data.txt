@@ -1,0 +1,90 @@
+Verbal	Parajumbles	 									
+Verbal	Synonyms	 									
+Verbal	Antonyms	 									
+Verbal	Sentence Correction	 									
+Verbal	Fill in the blanks	 									
+Verbal	Analogies	 									
+Verbal	Reading Comprehension	 									
+Verbal	Vocabulary	 									
+Verbal	Parts of speech	 									
+Verbal	Summary	 									
+Verbal	cloze test	 									
+Verbal	Idioms and Phrases	 									
+Verbal	Word Usage	 									
+Verbal	Active/Passive	 									
+Verbal	Odd Sentence Out	 									
+Verbal	Grammar	 									
+Verbal	Prefix/Suffix	 									
+Verbal	Punctuation	 									
+Verbal	Anagram	 									
+Verbal	Sentence Improvement	 									
+Verbal	Para Completion	 									
+Verbal	Etymology	 									
+Verbal	Verbal Reasoning	 									
+Quant	Number System	 									
+Quant	LCM and HCF	 									
+Quant	Percentages	 									
+Quant	Profit and Loss	 									
+Quant	Simple and Compound Interest	 									
+Quant	"Time, Speed and Distance"	 									
+Quant	Time and Work	 									
+Quant	Average	 									
+Quant	Ratio and Proportion	 									
+Quant	Equations	 									
+Quant	Logarithm	 									
+Quant	Progressions	 									
+Quant	Binomial Theorem	 									
+Quant	Surds and Indices	 									
+Quant	Inequalities	 									
+Quant	Permutation and Combination	 									
+Quant	Probability	 									
+Quant	Functions	 									
+Quant	Set Theory	 									
+Quant	Mixtures and Alligations	 									
+Quant	Geometry	 									
+Quant	Co-ordinate Geometry	 									
+Quant	Trigonometry	 									
+Quant	Mensuration	 									
+Quant	Data Sufficiency	 									
+Quant	Algebra	 									
+Quant	Partnership	 									
+Quant	Statistics	 									
+Quant	Complex Numbers	 									
+Logical Reasoning	Arrangements	 									
+Logical Reasoning	Clocks	 									
+Logical Reasoning	Calendars	 									
+Logical Reasoning	Blood relations	 									
+Logical Reasoning	Critical Reasoning	 									
+Logical Reasoning	Non verbal Reasoning	 									
+Logical Reasoning	Logical sequence	 									
+Logical Reasoning	Games and tournaments	 									
+Logical Reasoning	Input/Output	 									
+Logical Reasoning	Puzzle	 									
+Logical Reasoning	Syllogism	 									
+Logical Reasoning	Coding-Decoding	 									
+Logical Reasoning	Directions	 									
+Logical Reasoning	Data Sufficiency	 									
+Logical Reasoning	Decision Making	 									
+Logical Reasoning	mathematical puzzle	 									
+Logical Reasoning	Series	 									
+Logical Reasoning	Visual Reasoning	 									
+Logical Reasoning	Statement Assumption	 									
+Logical Reasoning	Statement Conclusion	 									
+Logical Reasoning	Statement Inference	 									
+Logical Reasoning	Statement Argument	 									
+Logical Reasoning	Statement Action	 									
+Logical Reasoning	Logical Deduction	 									
+Logical Reasoning	Alphabet Test	 									
+Logical Reasoning	"Networks, paths and Connections"	 									
+Logical Reasoning	Distribution and Selection	 									
+Logical Reasoning	Logical Connectivity	 									
+Logical Reasoning	Caselets	 									
+Data Interpretation	Tables	 									
+Data Interpretation	Bar Graphs	 									
+Data Interpretation	Line Graphs	 									
+Data Interpretation	Pie Chart	 									
+Data Interpretation	Venn Diagrams	 									
+Data Interpretation	Complex Charts	 									
+Data Interpretation	Logical DI	 									
+Data Interpretation	3D Graphs	 									
+Data Interpretation	Cubes	 									

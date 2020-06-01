@@ -1,0 +1,90 @@
+topicwise	Parajumbles	 
+topicwise	Synonyms	 
+topicwise	Antonyms	 
+topicwise	Sentence Correction	 
+topicwise	Fill in the blanks	 
+topicwise	Analogies	 
+topicwise	Reading Comprehension	 
+topicwise	Vocabulary	 
+topicwise	Parts of speech	 
+topicwise	Summary	 
+topicwise	cloze test	 
+topicwise	Idioms and Phrases	 
+topicwise	Word Usage	 
+topicwise	Active/Passive	 
+topicwise	Odd Sentence Out	 
+topicwise	Grammar	 
+topicwise	Prefix/Suffix	 
+topicwise	Punctuation	 
+topicwise	Anagram	 
+topicwise	Sentence Improvement	 
+topicwise	Para Completion	 
+topicwise	Etymology	 
+topicwise	Verbal Reasoning	 
+topicwise	Number System	 
+topicwise	LCM and HCF	 
+topicwise	Percentages	 
+topicwise	Profit and Loss	 
+topicwise	Simple and Compound Interest	 
+topicwise	"Time, Speed and Distance"	 
+topicwise	Time and Work	 
+topicwise	Average	 
+topicwise	Ratio and Proportion	 
+topicwise	Equations	 
+topicwise	Logarithm	 
+topicwise	Progressions	 
+topicwise	Binomial Theorem	 
+topicwise	Surds and Indices	 
+topicwise	Inequalities	 
+topicwise	Permutation and Combination	 
+topicwise	Probability	 
+topicwise	Functions	 
+topicwise	Set Theory	 
+topicwise	Mixtures and Alligations	 
+topicwise	Geometry	 
+topicwise	Co-ordinate Geometry	 
+topicwise	Trigonometry	 
+topicwise	Mensuration	 
+topicwise	Data Sufficiency	 
+topicwise	Algebra	 
+topicwise	Partnership	 
+topicwise	Statistics	 
+topicwise	Complex Numbers	 
+topicwise	Arrangements	 
+topicwise	Clocks	 
+topicwise	Calendars	 
+topicwise	Blood relations	 
+topicwise	Critical Reasoning	 
+topicwise	Non verbal Reasoning	 
+topicwise	Logical sequence	 
+topicwise	Games and tournaments	 
+topicwise	Input/Output	 
+topicwise	Puzzle	 
+topicwise	Syllogism	 
+topicwise	Coding-Decoding	 
+topicwise	Directions	 
+topicwise	Data Sufficiency	 
+topicwise	Decision Making	 
+topicwise	mathematical puzzle	 
+topicwise	Series	 
+topicwise	Visual Reasoning	 
+topicwise	Statement Assumption	 
+topicwise	Statement Conclusion	 
+topicwise	Statement Inference	 
+topicwise	Statement Argument	 
+topicwise	Statement Action	 
+topicwise	Logical Deduction	 
+topicwise	Alphabet Test	 
+topicwise	"Networks, paths and Connections"	 
+topicwise	Distribution and Selection	 
+topicwise	Logical Connectivity	 
+topicwise	Caselets	 
+topicwise	Tables	 
+topicwise	Bar Graphs	 
+topicwise	Line Graphs	 
+topicwise	Pie Chart	 
+topicwise	Venn Diagrams	 
+topicwise	Complex Charts	 
+topicwise	Logical DI	 
+topicwise	3D Graphs	 
+topicwise	Cubes	 
